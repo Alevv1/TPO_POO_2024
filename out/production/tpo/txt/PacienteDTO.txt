@@ -1,0 +1,7 @@
+{"DNI": 33016244,
+ "nombre": "Tomas Olmos",
+ "domicilio": "Pringles 400",
+ "mail": "tomas@gmail.com",
+ "sexo": "M",
+ "edad": 25}
+{"DNI":17182,"nombre":"Nicolas Alvarez","domicilio":"Lima 203","mail":"nico@gmail.com","sexo":"M","edad":37}
